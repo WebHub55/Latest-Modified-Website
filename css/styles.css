@@ -1,0 +1,27 @@
+body
+{
+    background-color:#FF9F45;
+    text-align:center;
+    margin-top: 0;
+    color:#323232;
+}
+contact-me{
+  background-color:#FF9F45;
+}
+hr{
+  border-style: none;
+  border-width:5px;
+  width:5%;
+}
+  text-color:red;
+}
+.images
+{
+       border-top-style: dotted;
+       border-color: grey;
+       border-width: 20px;
+       width: 5%;
+       height:140px
+       background-color:#FF9F45;
+
+}
